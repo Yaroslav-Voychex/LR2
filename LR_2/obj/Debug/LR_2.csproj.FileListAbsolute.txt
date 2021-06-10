@@ -1,0 +1,7 @@
+c:\users\yarick\source\repos\LR_2\LR_2\obj\Debug\LR_2.csprojAssemblyReference.cache
+c:\users\yarick\source\repos\LR_2\LR_2\obj\Debug\LR_2.csproj.CoreCompileInputs.cache
+c:\users\yarick\source\repos\LR_2\LR_2\bin\Debug\LR_2.exe.config
+c:\users\yarick\source\repos\LR_2\LR_2\bin\Debug\LR_2.exe
+c:\users\yarick\source\repos\LR_2\LR_2\bin\Debug\LR_2.pdb
+c:\users\yarick\source\repos\LR_2\LR_2\obj\Debug\LR_2.exe
+c:\users\yarick\source\repos\LR_2\LR_2\obj\Debug\LR_2.pdb
